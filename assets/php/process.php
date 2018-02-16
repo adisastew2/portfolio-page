@@ -1,6 +1,6 @@
 <?php
 
-    $to = "youremailhere@gmail.com"; //This will be replaced with your email
+    $to = "adisa.stewart1988@gmail.com";
     $from = $_REQUEST['email'];
     $name = $_REQUEST['name'];
     $headers = "From: $from";
