@@ -34,7 +34,7 @@
     $(window).on('load', function() {
         $(".typing").typed({
             // CHANGE YOUR HOME TYPING DESCRIPTION HERE
-            strings: ["I am A Freelance.", "I live in San Francisco.", "and I will do amazing work for you."],
+            strings: ["I am A Full Stack Developer.", "I live in Oakland.", "and I will do amazing work for you."],
             typeSpeed: 70
         });
     });
